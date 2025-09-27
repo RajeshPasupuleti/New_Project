@@ -7,6 +7,7 @@ const PORT = 5000;
 
 
 app.use(cors());
+console.log("rajesh");
 app.use(express.json()); 
 
 
